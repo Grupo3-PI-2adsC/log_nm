@@ -1,0 +1,10 @@
+Data e Hora: Wed Jun 05 20:09:01 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed Jun 05 20:12:33 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+

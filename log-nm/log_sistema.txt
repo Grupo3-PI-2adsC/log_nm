@@ -1,0 +1,186 @@
+Data e Hora: Wed May 29 20:52:52 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Arquitetura: amd64
+Número de Processadores: 12
+Carga Média do Sistema: -1.0
+Memória Total: 118 MB
+Memória Livre: 113 MB
+Memória Usada: 4 MB
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:53:35 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Arquitetura: amd64
+Número de Processadores: 12
+Carga Média do Sistema: -1.0
+Memória Total: 118 MB
+Memória Livre: 113 MB
+Memória Usada: 4 MB
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:54:35 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Arquitetura: amd64
+Número de Processadores: 12
+Carga Média do Sistema: -1.0
+Memória Total: 118 MB
+Memória Livre: 113 MB
+Memória Usada: 4 MB
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:55:35 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Arquitetura: amd64
+Número de Processadores: 12
+Carga Média do Sistema: -1.0
+Memória Total: 118 MB
+Memória Livre: 113 MB
+Memória Usada: 4 MB
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:56:35 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Arquitetura: amd64
+Número de Processadores: 12
+Carga Média do Sistema: -1.0
+Memória Total: 118 MB
+Memória Livre: 113 MB
+Memória Usada: 4 MB
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:57:00 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:58:00 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+Endereços IP:
+  Interface: lo - IP: 127.0.0.1
+  Interface: lo - IP: 0:0:0:0:0:0:0:1
+  Interface: wlan0 - IP: fe80:0:0:0:8783:4878:9974:bdfe%wlan0
+  Interface: wlan1 - IP: 192.168.125.27
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:cdc8:a4fa:77cc:be2d
+  Interface: wlan1 - IP: 2804:388:c334:a4ca:c5a0:5d3a:325:c255
+  Interface: wlan1 - IP: fe80:0:0:0:9616:8b5c:922:f77d%wlan1
+  Interface: wlan2 - IP: fe80:0:0:0:5f5:5e32:1e58:2308%wlan2
+  Interface: eth2 - IP: fe80:0:0:0:c70b:c313:cc8d:3169%eth2
+  Interface: eth4 - IP: fe80:0:0:0:9f4a:391a:93e7:cfa5%eth4
+  Interface: eth17 - IP: 172.25.128.1
+  Interface: eth17 - IP: fe80:0:0:0:f4eb:aa37:8947:9f4e%eth17
+
+Data e Hora: Wed May 29 20:58:26 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 20:59:26 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 21:00:18 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 21:01:18 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 21:02:18 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 21:06:01 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
+Data e Hora: Wed May 29 21:09:29 BRT 2024
+Sistema Operacional: Windows 11
+Versão do SO: 10.0
+Número de Processadores: 12
+
