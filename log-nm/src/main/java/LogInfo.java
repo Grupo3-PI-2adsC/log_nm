@@ -13,14 +13,15 @@ public class LogInfo {
 
         while (true) {
             System.out.println("Escolha uma opção:");
-            System.out.println("1. Iniciar coleta de dados");
-            System.out.println("2. Sair");
+            System.out.println("1. Coletar dados");
+            System.out.println("2. Encerrar");
             String escolha = scanner.nextLine();
 
             if (escolha.equals("1")) {
                 String resultado = iniciarLog();
                 System.out.println(resultado);
             } else if (escolha.equals("2")) {
+                System.out.println("Até breve!");
                 break;
             } else {
                 System.out.println("Opção inválida. Tente novamente.");
